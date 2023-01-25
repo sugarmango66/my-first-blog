@@ -26,7 +26,9 @@ SECRET_KEY = 'django-insecure-@ad(j%c=^22gz(hl_=3f7*0bfe^07l)!to=e(-q!46ia((3%@*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'suzanmagic.pythonanywhere.com',
+]
 
 
 # Application definition
